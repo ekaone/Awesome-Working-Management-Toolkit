@@ -15,3 +15,7 @@
 - [`Monday` One platform, better teamwork](https://monday.com/)
 - [`OneNote` Your digital book](https://www.onenote.com)
 - [`Google Keep` Add notes, lists, photos, and audio to Keep](https://www.google.com/keep/)
+- [`Dropbox Paper` Real-time editing for teams](https://www.dropbox.com/paper)
+- [`Suitedash` Replace all your software with one simple & affordable platform](https://suitedash.com/)
+- [`Caspio` Low-code platform for building online database applications without coding](https://www.caspio.com/)
+- [`Quire` A visual collaborative platform for your next, great projects](https://quire.io/)
