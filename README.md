@@ -10,3 +10,4 @@
 - [`Jira Software` Development tool used by agile teams](https://www.atlassian.com/software/jira)
 - [`Trello` Trello’s boards, lists, and cards enable teams to organize and prioritize projects](https://trello.com/)
 - [`Milanote` Milanote is an easy-to-use tool to organize your ideas and projects into visual boards](https://milanote.com/)
+- [`Milanote` Milanote is an easy-to-use tool to organize your ideas and projects into visual boards](https://milanote.com/)
