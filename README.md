@@ -13,3 +13,5 @@
 - [`Airtable` Powerful business solutions with a single source of truth](https://airtable.com/)
 - [`Asana` Asana organizes work so teams are clear what to do](https://asana.com/)
 - [`Monday` One platform, better teamwork](https://monday.com/)
+- [`OneNote` Your digital book](https://www.onenote.com)
+- [`Google Keep` Add notes, lists, photos, and audio to Keep](https://www.google.com/keep/)
