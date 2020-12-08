@@ -26,3 +26,4 @@
 - [`Backlog` Project & code management, together at last](https://backlog.com/)
 - [`Niftypm` Automate your team & client work in one simple, yet powerful app](https://niftypm.com/)
 - [`Exoplatform` Digital Workplace Software](https://www.exoplatform.com/)
+- [`Freshdesk` Choose your customer service solution](https://freshdesk.com/)
