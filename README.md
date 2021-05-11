@@ -48,3 +48,4 @@
 - [`Forest` Stay focused, be present](https://www.forestapp.cc/)
 - [`Session (Mac & IOS)` State your focus](https://www.stayinsession.com/)
 - [`Opal` Save time, focus each day](https://www.opal.so/)
+- [`Google Workspace` Everything you need to get anything done, now in one place](https://workspace.google.com/)
