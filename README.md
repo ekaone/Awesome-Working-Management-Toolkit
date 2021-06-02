@@ -49,3 +49,5 @@
 - [`Session (Mac & IOS)` State your focus](https://www.stayinsession.com/)
 - [`Opal` Save time, focus each day](https://www.opal.so/)
 - [`Google Workspace` Everything you need to get anything done, now in one place](https://workspace.google.com/)
+- [`Gitscrum` Skyrocket your productivity](https://site.gitscrum.com/)
+- [`Meistertask` Secure Task Management for Teams](https://www.meistertask.com/)
