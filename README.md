@@ -51,3 +51,4 @@
 - [`Google Workspace` Everything you need to get anything done, now in one place](https://workspace.google.com/)
 - [`Gitscrum` Skyrocket your productivity](https://site.gitscrum.com/)
 - [`Meistertask` Secure Task Management for Teams](https://www.meistertask.com/)
+- [`Taskade` Real-time organization and collaboration tool for getting work done](https://www.taskade.com/)
