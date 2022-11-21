@@ -5,6 +5,7 @@
 - [`ClickUp` All your work in one place: Tasks, docs, chat, goals, & more](https://clickup.com/)
 - [`Notion` One tool for your whole team. Write, plan, and get organized](https://www.notion.so/)
 - [`Slack` A place where people get work done, together](https://slack.com/intl/en-id/)
+- [`Miro` Miro is your team's visual platform to connect, collaborate, and create — together](https://miro.com/)
 - [`Wrike` Wrike's work management platform](https://www.wrike.com/)
 - [`Todoist` Organize it all with Todoist](https://todoist.com/)
 - [`Basecamp` The All-In-One Toolkit for Working Remotely](https://basecamp.com/)
